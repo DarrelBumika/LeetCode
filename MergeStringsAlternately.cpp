@@ -1,3 +1,6 @@
+// LeetCode 75 - 1768. Merge String Alternately
+// https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
+
 #include <iostream>
 using namespace std;
 
